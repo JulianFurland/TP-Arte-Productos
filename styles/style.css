@@ -1,0 +1,50 @@
+body{
+    background-image: url("../imgs/bckgr.jpg");
+    background-color: #cccccc;
+}
+h1,h3,p,li{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+}
+div img{
+    width: 400px;
+    height: 300px;
+}
+div ul{
+    margin-left: 410px;
+    margin-top: -300px;
+}
+.abajo{
+    margin-top: 10rem;
+}
+.derecha{
+    margin-left: 70rem;
+    margin-top: -54rem;
+}
+.derecha_abajo{
+    margin-left: 70rem;
+    margin-top: 10rem;
+}
+.Carrito{
+    background-color: blue;
+    border-style: double;
+    border-color: black;
+    width: 7rem;
+}
+.Carrito img{
+    display: flex;
+    height: 20px;
+    width: 20px;
+    margin-top: -2.15rem;
+    margin-left: 5.4rem;
+}
+.Carrito p{
+    color: #cccccc;
+    margin-left: 0.6rem;
+    margin-top: -0.05rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
